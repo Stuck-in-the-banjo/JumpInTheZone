@@ -288,6 +288,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\LevelGenerator.cs" />
     <Compile Include="Assets\Scripts\CameraFollowScript.cs" />
     <Compile Include="Assets\Scripts\LeftWallScript.cs" />
     <Compile Include="Assets\Scripts\PlatformScript.cs" />
