@@ -288,9 +288,11 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\CameraFollowScript.cs" />
+    <Compile Include="Assets\Scripts\CameraFollowScript.cs" />
+    <Compile Include="Assets\Scripts\LeftWallScript.cs" />
     <Compile Include="Assets\Scripts\PlatformScript.cs" />
     <Compile Include="Assets\Scripts\Player.cs" />
+    <Compile Include="Assets\Scripts\RightWallScript.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Sprite Pack\Tap and Fly\Readme.txt" />
